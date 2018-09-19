@@ -21,7 +21,7 @@
 
 
 
-![画板 1](https://raw.githubusercontent.com/suxin1/blog/master/front_end/2017-6-8/visual_code.png)
+![画板 1](https://raw.githubusercontent.com/suxin1/blog/master/assets/front_end/visual_code.png)
 
 ### 失真系数（Lie Factor）
 
@@ -31,7 +31,7 @@
 
 $$失真系数 = \frac{图表展示差异大小}{数据展示差异大小}$$
 
-$$差异大小 = \frac{(First Value- Second Value) 100}{First Value}$$
+$$差异大小 = \frac{(First Value- Second Value) 100}{First Value}​$$
 
 
 
