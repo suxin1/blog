@@ -1,7 +1,7 @@
 ## 前端技术
 #### 前端工程化
 
-* [网页性能优化](https://github.com/suxin1/blog/front_end/2017-9-10/网站性能优化.md)
+* [网页性能优化](https://github.com/suxin1/blog/blob/master/front_end/2017-9-10/网站性能优化.md)
 
 #### 数据可视化
 
