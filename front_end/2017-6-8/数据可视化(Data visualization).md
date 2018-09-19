@@ -21,7 +21,7 @@
 
 
 
-![画板 1](./画板 1.png)
+![画板 1](https://raw.githubusercontent.com/suxin1/blog/master/front_end/2017-6-8/visual_code.png)
 
 ### 失真系数（Lie Factor）
 
