@@ -1,4 +1,4 @@
-# 数据可视化(Data visualization)
+## 数据可视化(Data visualization)
 
 ### 数据类型(Data Type)：
 
@@ -12,7 +12,6 @@
    * 有序数据(ordinal): 某种定量数据和分类数据的混合（等级，排名，星级）
 3. 时间序列数据
    * 通过一段时间的重复测量收集到的数据
-
 
 
 ### 数据视觉编码(Visual Encoding):
@@ -31,7 +30,7 @@
 
 $$失真系数 = \frac{图表展示差异大小}{数据展示差异大小}$$
 
-$$差异大小 = \frac{(First Value- Second Value) 100}{First Value}​$$
+$$差异大小 = \frac{(First Value- Second Value) 100}{First Value}$$
 
 
 
