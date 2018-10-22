@@ -65,7 +65,7 @@
 
 我们现在来尝试应用`matrix()`到浏览器视窗中的元素对象，这个元素对象位于视窗左上角。
 
-![浏览器视窗中的对象](/Users/heshuxin/Downloads/∑≠"Îπ§◊˜/resources/4b.png)
+![浏览器视窗中的对象](./resources/4b.png)
 
 我们会将该对象沿x轴和y轴各移动150个像素。CSS：
 
