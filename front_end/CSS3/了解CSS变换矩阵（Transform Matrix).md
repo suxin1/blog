@@ -116,3 +116,5 @@
 用CSS来表示就是：`transform: matrix(1.0606, 1.0606, -1.0606, 1.0606, 0, 0)`，得到的结果如下：
 
 ![矩阵的合并](https://raw.githubusercontent.com/suxin1/blog/master/front_end/CSS3/resources/10b.png)
+
+原文链接：[https://dev.opera.com/articles/understanding-the-css-transforms-matrix/](https://dev.opera.com/articles/understanding-the-css-transforms-matrix/)
